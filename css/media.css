@@ -191,6 +191,7 @@
 @media(min-width:992px){
     .banner{
         text-align: center;
+        min-height: 80vh;
     }
     .banner h1{
         font-size: 52px;
@@ -246,7 +247,7 @@
 @media(min-width:1200px){
     .banner{
         text-align: center;
-        background-size: 80vh;
+        min-height: 80vh;
     }
     .hg{
         min-height: 420px;
@@ -308,6 +309,7 @@
 @media(min-width:1921px){
     .banner{
         text-align: center;
+        min-height: 90vh;
     }
     .hg{
         min-height: 724px;
