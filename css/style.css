@@ -39,7 +39,7 @@ header{
 }
 @keyframes up-down {
 	0% {
-		transform: translateY(-70PX);
+		transform: translateY(-40PX);
 	}
 }
 .who-we-are{
