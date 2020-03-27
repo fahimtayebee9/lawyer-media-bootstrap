@@ -191,7 +191,10 @@
 @media(min-width:992px){
     .banner{
         text-align: center;
-        min-height: 80vh;
+        min-height: 70vh;
+    }
+    .hg{
+        background-size: 420px;
     }
     .banner h1{
         font-size: 52px;
@@ -247,14 +250,14 @@
 @media(min-width:1200px){
     .banner{
         text-align: center;
-        min-height: 80vh;
+        min-height: 70vh;
     }
     .hg{
-        min-height: 510px;
+        min-height: 500px;
     }
-    .banner h1{
+    /* .banner h1{
         font-size: 64px;
-    }
+    } */
     .who-we-are h1{
         font-size: 45px;
     }
