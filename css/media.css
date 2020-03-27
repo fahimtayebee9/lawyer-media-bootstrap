@@ -36,7 +36,7 @@
         font-size: 24px;
     }
     .vb h1{
-        font-size: 20px;
+        font-size: 28px;
     }
     .col-3 h2{
         font-size: 12px;
@@ -52,7 +52,7 @@
         font-size: 10px;
     }
     .form-content h1{
-        font-size: 12px;
+        font-size: 18px;
     }
     input[type="button"]{
         text-align: center;
@@ -67,6 +67,9 @@
     .what-we img{
         width: 80%;
         margin-top: 20px;
+    }
+    .whoweare-content p{
+        margin-bottom: 20px;
     }
 }
 @media(min-width:575px){
@@ -150,7 +153,10 @@
         font-size: 13px;
     }
     .descrip-header h1{
-        font-size: 25px;
+        font-size: 24px;
+    }
+    .description h2{
+        font-size: 22px;
     }
     .col-3 p{
         font-size: 10px;
@@ -162,7 +168,7 @@
         font-size: 12px;
     }
     .form-content h1{
-        font-size: 14px;
+        font-size: 32px;
     }
     input[type="button"]{
         text-align: center;
@@ -217,7 +223,7 @@
         font-size: 14px;
     }
     .form-content h1{
-        font-size: 16px;
+        font-size: 40px;
     }
     input[type="button"]{
         text-align: center;
