@@ -246,9 +246,10 @@
 @media(min-width:1200px){
     .banner{
         text-align: center;
+        background-size: 80vh;
     }
     .hg{
-        min-height: 418px;
+        min-height: 420px;
     }
     .banner h1{
         font-size: 56px;
