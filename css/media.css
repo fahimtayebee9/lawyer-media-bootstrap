@@ -297,5 +297,10 @@
     .what-we-do{
         background-size: 900px;
     }
+    .navbar-light .navbar-nav .nav-link {
+        font-weight: 600;
+        font-size: 18px;
+        padding: 20px 10px;
+    }
 }
 
